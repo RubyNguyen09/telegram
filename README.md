@@ -10,11 +10,7 @@ A Ruby-Telegram hybrid puppeting/relaybot bridge.
 
 ## Documentation
 All setup and usage instructions are located on
-[docs.mau.fi](https://docs.mau.fi/bridges/python/telegram/index.html).
+[Whitepaper](https://docs.mau.fi/bridges/python/telegram/index.html).
 Some quick links:
 
 * [Bridge setup](https://docs.mau.fi/bridges/python/setup.html?bridge=telegram)
-
-### Whitepaper
-[Whitepaper.md](https://github.com/RubyNguyen09/telegram/blob/master/whitepaper.md)
-contains a general overview of what is supported by the bridge.
